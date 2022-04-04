@@ -1,0 +1,13 @@
+h1 {
+    color: darkslategrey;
+}
+
+.study {
+    font-weight: bold;
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.work {
+    color: blue;
+}
